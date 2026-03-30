@@ -1,4 +1,5 @@
-import { useState, useEffect, useRef } from "react";
+// @ts-nocheck
+import { useState, useRef } from "react";
 
 // ─── Data & Helpers ──────────────────────────────────────────────────────────
 
